@@ -143,6 +143,7 @@ body {
   .dots-container {
     text-align: center;
     padding: 20px 0;
+    margin-right: 350px;
   }
   
   .dot {
