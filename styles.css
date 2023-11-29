@@ -17,7 +17,7 @@ body {
     text-rendering: optimizeLegibility;
 }
 .main-text h1{
-    font-family: 'futura';
+    font-family: 'Futura Std', sans-serif;
     font-size: 4rem;
 }
 
